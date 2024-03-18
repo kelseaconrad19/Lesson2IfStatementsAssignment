@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8c13687-0545-4d34-a33d-09dbb853b1f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Lesson2IfStatementsAssignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DecisionAtCrossroad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeapYearExplorer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TheGreatestShowdown.py" afterDir="false" />
-    </list>
+    <list default="true" id="d8c13687-0545-4d34-a33d-09dbb853b1f7" name="Changes" comment="Completed assignment 1 for lesson 2." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +55,19 @@
       <option name="presentableId" value="Default" />
       <updated>1710698487646</updated>
     </task>
+    <task id="LOCAL-00001" summary="Completed assignment 1 for lesson 2.">
+      <option name="closed" value="true" />
+      <created>1710704559135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710704559135</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed assignment 1 for lesson 2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed assignment 1 for lesson 2." />
   </component>
 </project>

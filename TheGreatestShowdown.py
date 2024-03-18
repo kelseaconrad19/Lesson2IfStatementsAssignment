@@ -12,6 +12,7 @@ if num_2 > largest:
     largest = num_2
 if num_3 > largest:
     largest = num_3
+print(largest)
 
 # Task 2: Extend your program from Task 1 to also determine the smallest number among the three and print it out.
 smallest = num_1
@@ -20,6 +21,7 @@ if num_2 < smallest:
     smallest = num_2
 if num_3 < smallest:
     smallest = num_3
+print(smallest)
 
 # Task 3: Enhance your program to handle cases where two or all of the numbers are equal. The program should display appropriate messages like "Two numbers are equal and the largest" or "All numbers are equal".
 if num_1 == num_2 and num_1 == num_3:
